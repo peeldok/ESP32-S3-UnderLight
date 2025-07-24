@@ -31,4 +31,5 @@ In Tools, select USB Mode as USB-OTG (TinyUSB).
 
 ## Recommended for esp32s3
 Solder the USB-OTG pads on the bottom.
+
 Solder the N-OUT pads on the top. (Change the 5V input terminal to a 5V output terminal.)
