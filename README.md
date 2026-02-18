@@ -2,7 +2,7 @@
 
 This Arduino project uses the ESP32-S3 microcontroller to control an LED strip from a DAW program (via MIDI).
 * [Palette Upload](https://peeldok.github.io/ESP32-S3-UnderLight-PalettesUploader/)
-
+	* Use to upload a custom palette
 ## System Requirements
 
 * LED Strip
